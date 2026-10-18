@@ -1,4 +1,4 @@
 # first-project-demo
 This is my first git Repository
 <br>
-Author- Gursimran
+Author- Gursimran Singh
